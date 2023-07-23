@@ -1,0 +1,7 @@
+package doctor_app.doctor_app.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class AdminController {
+}
